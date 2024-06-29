@@ -1,7 +1,6 @@
 Overview
 
-
-Welcome to our stock trading game project! This application allows users to experience the excitement and challenges of stock trading in a simulated environment. By integrating real-time data from the New York Stock Exchange (NYSE), users can make virtual investments, manage their portfolio, and track market trends.
+Welcome to my stock trading game project! This application allows users to experience the excitement and challenges of stock trading in a simulated environment. By integrating real-time data from the New York Stock Exchange (NYSE), users can make virtual investments, manage their portfolio, and track market trends.
 
 Features
 
@@ -18,9 +17,11 @@ HTML: Utilized for intuitive portfolio management and interface design.
 Other Technologies: Additionally, we integrated various other technologies and libraries to enhance the user experience and ensure smooth operation.
 
 Note:
-The implementation of this project cannot be made public as it is an academic project and currently in progress. Once completed I will be attach screenshots of the final version of it.
+The implementation of this project cannot be made public as it is an academic project. 
 
+Below are some of the screenshots which give you an insight to the project:
 
+1) This is the Create/Start Game page that gets displayed once you open the web page: <br>
 <img width="638" alt="Create Game" src="https://github.com/BilalNaseer7773/Stock-Trading-Game/assets/90666694/5d2f0c06-1a26-46d5-b5a9-c2ce59a00a1e">
 
 <img width="1448" alt="image" src="https://github.com/CS3100W24/project-BilalNaseer7773/assets/90666694/30804400-3598-4f3d-af57-70b56a3b936c">
