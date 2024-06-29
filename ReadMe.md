@@ -1,8 +1,8 @@
-Overview
+# Overview
 
 Welcome to my stock trading game project! This application allows users to experience the excitement and challenges of stock trading in a simulated environment. By integrating real-time data from the New York Stock Exchange (NYSE), users can make virtual investments, manage their portfolio, and track market trends.
 
-Features
+## Features
 
 Real-time Stock Data: Our game utilizes real-time data from the NYSE to ensure an authentic trading experience.
 User Authentication: Implemented user authentication to ensure secure access to the platform.
@@ -16,16 +16,22 @@ Node.js: Employed for real-time updates, enabling swift responses to market chan
 HTML: Utilized for intuitive portfolio management and interface design.
 Other Technologies: Additionally, we integrated various other technologies and libraries to enhance the user experience and ensure smooth operation.
 
-Note:
+## Note:
 The implementation of this project cannot be made public as it is an academic project. 
 
-Below are some of the screenshots which give you an insight to the project:
+## Below are some of the screenshots which give you an insight to the project:
 
-1) This is the Create/Start Game page that gets displayed once you open the web page: <br>
+### 1) This is the Create/Start Game page that gets displayed once you open the web page: <br>
 <img width="638" alt="Create Game" src="https://github.com/BilalNaseer7773/Stock-Trading-Game/assets/90666694/5d2f0c06-1a26-46d5-b5a9-c2ce59a00a1e">
 
+
+### 2) Once you have started the game this web page is displayed which allows you to Buy stocks, Sell stocks and view the game portfolio of the players.<br>
 <img width="1448" alt="image" src="https://github.com/CS3100W24/project-BilalNaseer7773/assets/90666694/30804400-3598-4f3d-af57-70b56a3b936c">
+
+### 3) Pop-up window showing the stock has been bought successfully.<br>
 <img width="457" alt="image" src="https://github.com/CS3100W24/project-BilalNaseer7773/assets/90666694/71014ea5-6549-4aaf-9ec4-0da4e390f9f7">
+
+### 4) Pop-up window showing the stock has been sold successfully.<br>
 <img width="469" alt="image" src="https://github.com/CS3100W24/project-BilalNaseer7773/assets/90666694/d9cb7040-273f-432c-a31d-5ff6b2e84830">
 <img width="448" alt="image" src="https://github.com/CS3100W24/project-BilalNaseer7773/assets/90666694/9323f8aa-cc92-4aed-8491-24bc965e4247">
 <img width="439" alt="image" src="https://github.com/CS3100W24/project-BilalNaseer7773/assets/90666694/7faafe98-e269-4560-8f15-f0b14f2a4b72">
